@@ -1,0 +1,5 @@
+ace
+card random
+jack
+king
+queen
